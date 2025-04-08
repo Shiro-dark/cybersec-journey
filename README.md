@@ -22,7 +22,7 @@ No degree. No shortcuts.
 - Built home lab for testing & training  
 - Practicing report writing & automation scripts
 
-🧠 See full progress here → what-i-learned-so-far.md
+🧠 See full progress here → [what-i-learned-so-far.md](./what-i-learned-so-far.md)
 
 ---
 
