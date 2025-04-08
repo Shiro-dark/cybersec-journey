@@ -3,4 +3,5 @@
 - Verified completion of full CS50x course  
 - Covered C, Python, HTML/CSS, Flask, and Algorithms  
 - Public verification link is not available — cert proof shown above
+  
 [👉 Full CS50x Certificate](./cs50x.md)
