@@ -9,4 +9,4 @@
 
 ---
 
-![CompTIA A+ Certificate](./CompTIA-A-Plus-Certified-April-2025.png)
+![CompTIA A+ Certificate](../screenshots/CompTIA-A-Plus-Certified-April-2025.png)
