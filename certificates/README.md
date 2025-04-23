@@ -11,4 +11,4 @@
 - Verified completion of CompTIA A+ certification (Core 1 & Core 2)  
 - Covered hardware, networking, Windows tools, security, and troubleshooting  
 
-[👉 Full CompTIA A+ Certificate](./certificates/CompTIA-A-Plus.md)
+[👉 Full CompTIA A+ Certificate](./CompTIA-A-Plus.md)
