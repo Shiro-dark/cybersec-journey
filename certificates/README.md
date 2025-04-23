@@ -5,4 +5,5 @@
 - Public verification link is not available — cert proof shown above
   
 [👉 Full CS50x Certificate](./cs50x.md)
+
 [👉 Full CompTIA-A-Plus Certificate](./CompTIA-A-Plus.md)
