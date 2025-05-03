@@ -6,68 +6,72 @@
 ---
 
 ## 💻 CS50x – Harvard Intro to Computer Science
-- Learned C, Python, HTML, CSS, Flask
-- Built projects like finance tracker, search engine clone
+- Learned C, Python, HTML, CSS, Flask  
+- Built projects like a finance tracker, search engine clone  
 - Gained deep understanding of how computers “think”
 
 ---
 
-## 🛡️ CompTIA A+
-- ✅ Core 1 Passed
-- 🕒 Core 2 Exam in 2 weeks
-- Learned:
-  - Troubleshooting hardware, OS, mobile, and network issues
-  - Security basics (threats, attacks, preventive measures)
-  - Practical IT Helpdesk skills
+## 🛡️ CompTIA A+ – ✅ Fully Certified (April 2025)
+- Core 1 ✅  
+- Core 2 ✅  
+- Covered:
+  - Troubleshooting hardware, OS, mobile, and network issues  
+  - Security basics (threats, attacks, preventive measures)  
+  - Practical IT Helpdesk skills  
+  - Windows tools (regedit, control panel, recovery utilities)
 
 ---
 
 ## 🐚 Linux & Networking
-- Navigating Linux CLI confidently
-- Basic Bash scripting
-- Networking fundamentals: IP, subnetting, ports, protocols
+- Confident navigating Linux CLI (Kali, Parrot)  
+- Bash scripting fundamentals  
+- Networking knowledge: IPs, ports, protocols, subnetting  
+- Practiced with Nmap, Wireshark, and manual enumeration techniques
 
 ---
 
 ## 🧨 HTB Academy – Bug Bounty Path (in progress)
-Modules worked on:
-- ✅ Intro to Academy
-- ✅ Penetration Testing Process
-- ✅ Learning Process
-- ✅ Linux Fundamentals
-- ✅ Introduction to Networking
-- ✅ Web Requests
-- ✅ Introduction to Web Applications
-- ✅ Using Web Proxies
-- ✅ Info Gathering (Web)
-- ✅ Attacking Web Apps with ffuf
-- ✅ JavaScript Deobfuscation
-- ✅ Cross-Site Scripting (XSS)
-- ✅ SQLMap Essentials
-- 🔄 SQLi Fundamentals (in progress)
-- 🔄 Command Injections (in progress)
+### Modules Completed:
+- ✅ Intro to Academy  
+- ✅ Penetration Testing Process  
+- ✅ Learning Process  
+- ✅ Linux Fundamentals  
+- ✅ Introduction to Networking  
+- ✅ Web Requests  
+- ✅ Introduction to Web Applications  
+- ✅ Using Web Proxies  
+- ✅ Info Gathering (Web)  
+- ✅ Attacking Web Apps with ffuf  
+- ✅ JavaScript Deobfuscation  
+- ✅ Cross-Site Scripting (XSS)  
+- ✅ SQLMap Essentials  
+- ✅ SQLi Fundamentals  
+- ✅ Command Injections  
+- 🔄 File Upload Vulnerabilities (in progress)
 
-Tools Learned:
-- 🔍 Nmap, ffuf, SQLMap
-- 🧪 Burp Suite (intruder, repeater, decoder)
-- 🕵️ OSINT techniques, DNS recon, header analysis
-- 🐍 Starting to write own automation scripts in Python/Bash
+### Tools Mastered:
+- 🔍 Nmap, ffuf, SQLMap, gobuster  
+- 🧪 Burp Suite: Intruder, Repeater, Decoder  
+- 🕵️ OSINT: DNS recon, header analysis, web fingerprinting  
+- 🐍 Writing custom automation tools in Python/Bash  
 
 ---
 
 ## 🔥 Personal Progress
-- Created home lab for web attacks
-- Redacted writeups in progress
-- Committing daily grind logs
-- GitHub portfolio building now
+- Completed **HTB Starter Labs** on app.hackthebox.com  
+- Pwned first ranked HTB box: `Lame` (May 3, 2025)  
+  - Exploited Samba 3.0.20 (manual & Metasploit)  
+  - Earned global HTB rank in top #900   
+- Consistent daily logs and documentation via GitHub  
+- Momentum building toward OSCP & real-world bounty targets
 
 ---
 
-📌 Next Steps:
-- Finish HTB Bug Bounty Path
-- Publish tools + notes on GitHub
-- Pass A+ Core 2 → Move toward eJPT/PNPT
-- Start real bug bounty submissions
-
----
+## 📌 Next Steps
+- Finish remaining HTB Bug Bounty Path modules  
+- Launch GitHub toolset and public notes  
+- Begin Bugcrowd submissions  
+- Train for OSCP  
+- Expand Red Team capabilities through deeper exploitation, custom tooling, and buffer overflow prep
 
