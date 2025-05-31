@@ -22,4 +22,4 @@ done
 
 echo "scan complete"
 
-![script 1](screenshots/uuid-script.jpg)
+![script 1](../screenshots/uuid-script.jpg)
