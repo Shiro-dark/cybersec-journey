@@ -21,3 +21,5 @@ for EXT_PATH in $EXT_DIRS; do
 done
 
 echo "scan complete"
+
+ ![script 1](../screenshots/uuid-script.jpg)
