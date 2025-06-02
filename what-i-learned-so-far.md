@@ -105,5 +105,3 @@
 - Build custom tooling & report templates  
 - Earn OSCP + PNPT by end of 2025  
 - Land junior pentester / red team internship
-
-```
