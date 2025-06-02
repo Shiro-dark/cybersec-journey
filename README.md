@@ -58,7 +58,7 @@ No degree. No shortcuts.
 ---
 
 ## 🧠 See full logs & knowledge
-- Daily Logs → [`daily-logs/`](./daily-logs/)  
+- Daily Logs → [`daily-logs/README.md`](./daily-logs/README.md)  
 - What I’ve learned so far → [`what-i-learned-so-far.md`](./what-i-learned-so-far.md)
 
 ---
