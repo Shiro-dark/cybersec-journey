@@ -104,8 +104,6 @@
 - Train deeper into BOF, `pwndbg`, `gdb`, shellcoding  
 - Build custom tooling & report templates  
 - Earn OSCP + PNPT by end of 2025  
-- Land junior pentester / red team internship  
+- Land junior pentester / red team internship
+
 ```
-
-Let me know if you want this linked or auto-exported to your repo or added to a `README` sidebar.
-
