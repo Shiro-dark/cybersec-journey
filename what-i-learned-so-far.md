@@ -1,13 +1,3 @@
-Got you — here's your **updated `what-i-learned-so-far.md`** in clean markdown, now including:
-
-* Basic Assembly & Buffer Overflow
-* All vulns + tools you listed
-* Expanded enumeration & exploitation skills
-* Still short, sharp, and proof-of-work style
-
----
-
-```markdown
 # 🧠 What I’ve Learned So Far (Cybersecurity Journey)
 
 📆 **Started:** Sept 2024  
