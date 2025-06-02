@@ -65,6 +65,9 @@ No degree. No shortcuts.
 
 ## 📜 Certificates
 - View all → [`certificates/`](./certificates/)
+  - Comptia A+ → [`certificates/CompTIA-A-Plus.md`](./certificates/CompTIA-A-Plus.md)
+  - View all → [`certificates/`](./certificates/)
+  - CompTIA-A-Plus.md
 
 ---
 
