@@ -66,7 +66,7 @@ No degree. No shortcuts.
 ## 📜 Certificates
 - View all → [`certificates`](./certificates/)
   - Comptia A+ → [`Comptia A+`](./certificates/CompTIA-A-Plus.md)
-  - CS50 Harvard → [`CS50x`](./certificates/Cs50x.md)
+  - CS50 Harvard → [`CS50x`](./certificates/cs50x.md)
 
 ---
 
