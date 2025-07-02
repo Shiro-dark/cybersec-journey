@@ -1,0 +1,21 @@
+# 🧠 Daily Log — July 1, 2025
+
+## 🖥️ Linux Mastery & Terminal Optimization
+- Refined use of `alias` vs `function` in `.zshrc`
+- Understood how `sudo` handles chained commands
+- Used `sudo sh -c` to group elevated commands
+- Edited `visudo` with command-specific rules and wildcards
+- Improved `tmux` workflow: session renaming, copy-mode, config location
+
+## 🛡️ DNS & OPSEC Enhancements
+- Used `resolvectl flush-caches` and `statistics` to inspect DNS behavior
+- Confirmed DNS over HTTPS (DoH) disables local DNS caching
+- Understood encryption model of DoH vs traditional DNS
+
+## 🔒 Platform Security Audit
+- Evaluated TryHackMe login security
+- Identified GitHub OAuth w/ MFA as safest login option
+
+## 🧠 Security Mindset Gains
+- Debugged zsh and sudo behavior confidently
+- Practiced structured privilege escalation flow
